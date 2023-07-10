@@ -1,1 +1,1 @@
-Lista contendo exercícios de vetores utilizando a linguagem C 
+Repositório contendo listas de exercícios desenvolvidos em linguagem C.
