@@ -1,1 +1,1 @@
-Repositório contendo listas de exercícios desenvolvidos em linguagem C.
+Listas contendo exercícios variados utilizando a linguagem C.
